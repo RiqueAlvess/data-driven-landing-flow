@@ -1,0 +1,13 @@
+
+<svg width="200" height="60" viewBox="0 0 200 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <path d="M30 10H10V50H30" stroke="#8B5CF6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M50 10H30V30H50" stroke="#8B5CF6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M30 30V50H50" stroke="#8B5CF6" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M70 17H60V25H70V40C70 45.5 74.5 50 80 50C85.5 50 90 45.5 90 40V25H80V17H90" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100 17H120C125.5 17 130 21.5 130 27C130 32.5 125.5 37 120 37H100V17Z" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M100 37V50" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 17V50" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M140 17H155C160.5 17 165 21.5 165 27C165 32.5 160.5 37 155 37H145" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M175 17V50" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M175 34H185C190.5 34 195 29.5 195 24C195 18.5 190.5 14 185 14H175" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
